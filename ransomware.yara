@@ -1,0 +1,1 @@
+rule Ransomware { strings: $a = "ransom note" condition: $a }

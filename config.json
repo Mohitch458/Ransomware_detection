@@ -1,0 +1,10 @@
+{
+  "monitor_path": "./",
+  "log_file": "monitoring_log.txt",
+  "ransomware_keywords": ["encrypted", "ransomware", "locked"],
+  "backup_dir": "./backups",
+  "quarantine_dir": "./quarantine",
+  "directory_to_monitor": "./",
+  "directory_to_backup": "./important_files",
+  "encrypted_files_directory": "./encrypted_files"
+}

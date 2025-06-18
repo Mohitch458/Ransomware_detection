@@ -1,0 +1,1 @@
+This is a dummy honeypot file for ransomware detection.
